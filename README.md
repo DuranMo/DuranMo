@@ -6,7 +6,7 @@ I'm currently a **Software Developer at Rice's EXP Lab**, where I develop softwa
 
 I'm also a **manager of Rice's AWS Student Builder Group**, where we help students develop practical cloud computing skills through technical workshops, networking events, and collaborative projects. Our group works with AWS technologies and industry professionals to make cloud computing more accessible to students. We're also launching a semester-long project initiative that guides students through designing, developing, and deploying applications using AWS services.
 
-### Connect with me
+## Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duran-jon-p/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duranjpasha@gmail.com)
