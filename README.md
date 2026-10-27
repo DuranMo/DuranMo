@@ -22,7 +22,7 @@
 <hr>
 
 <p>
-  I'm a Computer Science and Electrical Engineering junior at Rice University with interests in software engineering, embedded systems, and cloud computing.
+  I'm a Computer Science and Electrical Engineering junior at Rice University with interests in software engineering, ML, embedded systems, and cloud computing.
 </p>
 
 <p>
