@@ -1,6 +1,6 @@
 # Hello, I'm Duran Pasha!
 
-I'm a Computer Science and Electrical Engineering student at Rice University, with interests in software engineering, embedded systems, and cloud computing.
+I'm a Computer Science and Electrical Engineering student at Rice University, with interests in software engineering, machine learning, embedded systems, and cloud computing.
 
 I'm currently a **Software Developer at Rice's EXP Lab**, where I develop software systems that connect virtual reality environments with physical hardware. My work includes building C# SDK components in Unity, implementing network communication between clients and host machines, and integrating embedded devices to enable real-time interactions in immersive environments.
 
