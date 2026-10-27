@@ -11,4 +11,4 @@ I'm also a **manager of Rice's AWS Student Builder Group**, where we help studen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duran-jon-p/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duranjpasha@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=DuranMo&style=flat-square&color=grey)
+![Profile Views](https://komarev.com/ghpvc/?username=DuranMo&style=flat&color=557e5c)
