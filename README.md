@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Duran Pasha!</h1>
 
 <h3 align="center">
-  Computer Science & Electrical Engineering Student at Rice University
+  Computer Science & Electrical and Computer Engineering Student at Rice University
 </h3>
 
 <p align="center">
