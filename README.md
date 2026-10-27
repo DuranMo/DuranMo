@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Duran Pasha!
 
-<!--
-**DuranMo/DuranMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Electrical Engineering student at Rice University, with interests in software engineering, embedded systems, and cloud computing.
 
-Here are some ideas to get you started:
+I'm currently a **Software Developer and XR Researcher at Rice's EXP Lab**, where I develop software systems that connect virtual reality environments with physical hardware. My work includes building C# SDK components in Unity, implementing network communication between clients and host machines, and integrating embedded devices to enable real-time interactions in immersive environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also a **manager of Rice's AWS Student Builder Group**, where we help students develop practical cloud computing skills through technical workshops, networking events, and collaborative projects. Our group works with AWS technologies and industry professionals to make cloud computing more accessible to students. We're also launching a semester-long project initiative that guides students through designing, developing, and deploying applications using AWS services.
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duran-jon-p/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duranjpasha@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=DuranMo&style=flat-square&color=grey)
