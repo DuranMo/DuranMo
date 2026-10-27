@@ -16,8 +16,7 @@ I'm also a **manager of Rice's AWS Student Builder Group**, where we help studen
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-<h2 align="center">Profile Views</h2>
-
+<hr>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DuranMo&style=flat&color=blue" alt="Profile Views">
 </p>
